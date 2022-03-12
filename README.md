@@ -8,10 +8,6 @@
 
 
 
-
-
-Instagram
-
 ## Viel Spaß beim entwickeln! 🎮
 
 

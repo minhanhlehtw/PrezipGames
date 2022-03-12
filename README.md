@@ -1,6 +1,6 @@
 ### Hallo Zusammen 👋
 
-bei Prezip erwarten euch kostenlose Tutorials im Bereich Spieleentwicklung in Unity.
+bei Prezip erwarten euch Tutorials im Bereich Spieleentwicklung in Unity. Alle Assets, die ihr braucht, um den Videos zu folgen, könnt ihr hier bei GitHub downloaden.
 <!--
 **PrezipGames/PrezipGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

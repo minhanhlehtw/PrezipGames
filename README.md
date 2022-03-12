@@ -4,7 +4,7 @@
 
 ### Wenn ihr keine neuen Videos verpassen wollt, solltet ihr am besten meinen YouTube - und Instagram Channel abonnieren.
 
-(https://www.youtube.com/channel/UC6OhdwHmt6iZWrV9qCqOIAw "YouTube")
+[I'm an inline-style link with title](https://www.youtube.com/channel/UC6OhdwHmt6iZWrV9qCqOIAw "YouTube")
 
 
 
